@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@atlaskit/modal-dialog": "^12.2.6",
+    "@atlaskit/modal-dialog": "^12.17.8",
     "@fullcalendar/common": "^5.11.0",
     "@fullcalendar/daygrid": "^5.11.0",
     "@fullcalendar/interaction": "^5.11.0",
